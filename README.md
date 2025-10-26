@@ -24,19 +24,6 @@ Multiple clients (representing medical institutions) collaboratively train a sha
 
 ---
 
-## ⚙️ Architecture
-
-```
-
-Client 1 ─┐
-Client 2 ─┼──► [Secure Aggregation] ─► [Global Server Model]
-Client 3 ─┘         ▲
-│
-[Differential Privacy Noise]
-
-```
-
----
 
 ## 🧩 Tech Stack
 
@@ -84,7 +71,6 @@ Client 3 ─┘         ▲
 **Monsur Fuad Khan**
 📍 Uttara University
 💻 Machine Learning & Privacy-Preserving AI Enthusiast
-🌐 [LinkedIn Profile ([https://www.linkedin.com](https://www.linkedin.com/in/monsur-fuad-khan-573819286/)/)
 
 ---
 
