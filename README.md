@@ -49,7 +49,7 @@ Multiple clients (representing medical institutions) collaboratively train a sha
 
 ## 🧪 Results
 
-- **Accuracy:** 84–87%  
+- **Accuracy:** 97.88%  
 - **Model:** CNN-based classifier  
 - **Privacy:** Guaranteed via DP + SA  
 - **Data Type:** Non-IID simulated medical datasets  
